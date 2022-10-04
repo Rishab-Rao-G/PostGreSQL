@@ -1,6 +1,6 @@
 PREREQUISITES - 
 1) Jupyter NoteBook installed.
-2) Postgresql installed and configured - https://www.postgresql.org/download/ 
+2) Postgresql installed and configured - ```https://www.postgresql.org/download/``` 
 3) Remember the user login credentials. The same credentials will be used to connect to the server
 4) The user does not have to create a database or table. These operations will be performed progamatically 
 in the Jupyter Notebook
